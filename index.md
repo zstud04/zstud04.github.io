@@ -3,6 +3,7 @@ title: Joint Conference on Language Evolution
 layout: default
 location: Madison, WI   
 date: May 18-21
+proposal_link: "#"
 pages:
 stats:
     attendees: "2000+"
