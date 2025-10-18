@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Uncovering the Computational Ingredients of Human-Like Representations in LLMs
+description: What components of transformer pre/post training support more human-like representations? We use a cognitive science inspired triplet-task to obtain semantic representations across more than 70 open source models, and compare these to semantic representations in humans.
+img: assets/img/comp_ingredients.png
+redirect: https://arxiv.org/abs/2510.01030
 importance: 1
 category: work
 related_publications: true

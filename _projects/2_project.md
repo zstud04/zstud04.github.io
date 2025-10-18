@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Evaluating Steering Techniques using Human Similarity Judgments
+description: What kinds of semantic respresentations support tasks requiring cognitive control in humans? We compare human and LLM representations obtained from behavioral judgments, and evaluate the extent to which popular steering methods (SAEs, task vectors, etc.) support alignment with human representations.
+img: assets/img/steering.png
+redirect: https://arxiv.org/abs/2505.19333
+importance: 3
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Contextual Effects in Human and LLM Causal Reasoning
+description: Are human world model representations qualitatively different from those of LLMs? What kinds of grounded causal inference tasks are easy for people and difficult for models? We evaluate performance on simple causal reasoning problems in humans and LLMs, and find convergences in both the behavior and representations elicited from people and models.
+img: assets/img/attn_proc_fig.png
+importance: 2
 category: work
+giscus_comments: true
+redirect: https://openreview.net/forum?id=BMHkg3BL6e
 ---
 
 Every project has a beautiful feature showcase page.
