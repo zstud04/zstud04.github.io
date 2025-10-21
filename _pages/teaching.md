@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: piano
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I also teach jazz and classical piano! I'm currently affiliated with [Park Street Piano](https://www.parkstreetpiano.com/) in Madison.
 
-Organize your courses by years, topics, or universities, however you like!
